@@ -6,7 +6,7 @@ The given dataset consists of user reviews of ChatGPT, including textual feedbac
 
 The key objectives of this problem are:
 
-Sentiment Analysis: Identify the overall sentiment distribution among users and determine what aspects of ChatGPT they like or dislike the most.
-Time-Series Analysis: Analyze how user sentiment has evolved over time.
-Net Promoter Score (NPS) Analysis: Calculate and visualize the NPS over time to assess user loyalty and willingness to recommend ChatGPT.
+Sentiment Analysis: Identify the overall sentiment distribution among users and determine what aspects of ChatGPT they like or dislike the most.<br>
+Time-Series Analysis: Analyze how user sentiment has evolved over time.<br>
+Net Promoter Score (NPS) Analysis: Calculate and visualize the NPS over time to assess user loyalty and willingness to recommend ChatGPT.<br>
 Issue Identification: Identify the most common problems users face, particularly those that lead to negative reviews.
